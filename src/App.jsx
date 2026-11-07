@@ -7,7 +7,7 @@ function App() {
 return(
   <>
   <Welcome name="nono" />
-  <Welcome name="amin"/>
+  <Welcome name="ossama"/>
   <Welcome name="oudfel"/>
   <Button label="cliquez ici"/>
   </>
